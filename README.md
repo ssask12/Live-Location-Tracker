@@ -5,7 +5,8 @@
 Go here:- https://ssask12.github.io/Live-Location-Tracker/
 
 
-
+Looking for the latest information on a hurricane's location? You've come to the right place! 
+Follow the trace of your current location live on this real-time map locator.
 
 
 
