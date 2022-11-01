@@ -1,0 +1,49 @@
+#error-msg {
+    color: #fff;
+    background: red;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#valid-msg {
+   color: #fff;
+    background:#00C900;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.modal-body {
+    position: relative;
+    min-height: 160px;
+    padding: 4px 15px 15px;
+}
+input.error {
+  border: 1px solid #FF7C7C;
+}
+#result label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 300;
+    width: 100%;
+    color: #a5a5a5;
+}
+/*.intl-tel-input.allow-dropdown {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 55%;
+}*/
+input#phone {
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-top: transparent !important;
+    border-radius: 0;
+    width: 100% !important;
+    box-shadow: none;
+   
+}
+button.btn.btn-default.pr_modal_btn {
+    width: 100%;
+}
